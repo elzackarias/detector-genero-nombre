@@ -1,7 +1,7 @@
 # Gender detection from name
 
 ### Install
-`npm i ```detector-genero-nombre
+`npm i detector-genero-nombre
 
 ### Example
 ```js
