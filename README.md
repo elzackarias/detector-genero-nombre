@@ -5,7 +5,7 @@
 
 ### Example
 ```js
-const { getGender } = require('dector-genero-nombre');
+const { getGender } = require('detector-genero-nombre');
 
 const genderEN = getGender('Andrea', 'en');
 const genderIT = getGender('Andrea', 'it');
