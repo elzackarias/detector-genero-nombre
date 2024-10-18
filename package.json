@@ -1,0 +1,27 @@
+{
+  "name": "detector-genero-nombre",
+  "version": "1.0",
+  "description": "Detecta el genero basado en el nombre",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "lint": "eslint ./",
+    "test": "nyc mocha",
+    "coverage": "nyc --reporter=lcov --reporter=text mocha"
+  },
+  "keywords": [
+    "gender",
+    "detection",
+    "guess",
+    "name",
+    "first name"
+  ],
+  "author": "Jose Zacarias",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^10.7.3",
+    "nyc": "^17.0.0"
+  }
+}
