@@ -1,6 +1,6 @@
 {
   "name": "detector-genero-nombre",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Detecta el genero basado en el nombre",
   "main": "index.js",
   "scripts": {
